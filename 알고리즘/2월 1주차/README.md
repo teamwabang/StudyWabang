@@ -39,26 +39,17 @@
 		<td>Q1284 - 집 주소</td>
 	</tr>
 	<tr>
-		<td rowspan="7">&nbsp;&nbsp;&nbsp;2월 1주차(토)&nbsp;&nbsp;&nbsp;</td>
-		<td>-</td>
+		<td rowspan="4">&nbsp;&nbsp;&nbsp;2월 1주차(토)&nbsp;&nbsp;&nbsp;</td>
+		<td>Q1598 - 꼬리를 무는 숫자 나열</td>
 	</tr>
 	<tr>
-		<td>-</td>
+		<td>Q1964 - 오각형, 오각형, 오각형...</td>
 	</tr>
 	<tr>
-		<td>-</td>
+		<td>Q10871 - X보다 작은 수</td>
 	</tr>
 	<tr>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>-</td>
+		<td>Q16486 - 운동장 한 바퀴</td>
 	</tr>
 </table>
 
