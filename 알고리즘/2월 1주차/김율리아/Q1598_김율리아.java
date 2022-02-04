@@ -3,10 +3,10 @@ package backjoon;
 import java.io.IOException;
 import java.util.Arrays;
 import java.util.Scanner;
-
+//원숭이
 public class Q1598_김율리아 {
 
-	public static void main(String[] args) throws IOException{
+	public static void main(String[] args) {
 	
 		Scanner sc = new Scanner(System.in);
 		//두 숫자간의 차이는 몫의 차이 + 큰나머지에서 작은 나머지 빼준 값
