@@ -1,7 +1,7 @@
 package backjoon;
 
 import java.util.Scanner;
-
+//x보다 작은수
 public class Q10871_김율리아 {
 
 	public static void main(String[] args) {
