@@ -1,6 +1,6 @@
-# 알고리즘 스터디 - 2월 2주차
+# 알고리즘 스터디 - 2월 3주차
 
-> 2022.02.09(수), 2022.02.12(토)
+> 2022.02.16(수), 2022.02.19(토)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/66001046/152260938-51b1334f-297f-4092-8f37-f02dc9cd3a07.png" alt="coding" width="150px" />
