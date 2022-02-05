@@ -1,8 +1,12 @@
+<<<<<<< Updated upstream
 import java.util.Scanner;
+=======
+>>>>>>> Stashed changes
 
 public class Q1964_박병권 {
 
 	public static void main(String[] args) {
+<<<<<<< Updated upstream
 		
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
@@ -17,3 +21,10 @@ public class Q1964_박병권 {
 	}
 
 }
+=======
+		// TODO Auto-generated method stub
+
+	}
+
+}
+>>>>>>> Stashed changes
