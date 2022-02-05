@@ -13,8 +13,8 @@
 - [**백준**](https://www.acmicpc.net/) 사이트에서 알고리즘 문제 선택<br><br>
 <table>
 	<tr>
-		<td align="center"><b>날짜</b></td>
-		<td align="center"><b>문제</b></td>
+		<th align="center">날짜</th>
+		<th align="center">문제</th>
 	</tr>
 	<tr>
 		<td rowspan="7">&nbsp;&nbsp;&nbsp;2월 3주차(수)&nbsp;&nbsp;&nbsp;</td>
