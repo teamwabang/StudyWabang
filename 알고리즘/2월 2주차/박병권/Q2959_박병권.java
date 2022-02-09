@@ -13,7 +13,7 @@ public class Q2959_박병권 {
 		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = new StringTokenizer(bf.readLine());
 		
-		int arr[] = new int[4]; // 배열생성
+		int arr[] = new int[3]; // 배열생성
 		
 		for(int i = 0; i < arr.length; i++) {
 			arr[i] = Integer.parseInt(st.nextToken()); // 입력받은 nextToken을 int로 배열에 저장
