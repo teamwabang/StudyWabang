@@ -17,7 +17,7 @@
 		<th align="center">문제</th>
 	</tr>
 	<tr>
-		<td rowspan="4">&nbsp;&nbsp;&nbsp;2월 3주차(수)&nbsp;&nbsp;&nbsp;</td>
+		<td rowspan="6">&nbsp;&nbsp;&nbsp;2월 3주차(수)&nbsp;&nbsp;&nbsp;</td>
 		<td>Q1110 - 더하기 사이클</td>
 	</tr>
 	<tr>
@@ -30,26 +30,17 @@
 		<td>Q2959 - 거북이</td>
 	</tr>
 	<tr>
-		<td rowspan="7">&nbsp;&nbsp;&nbsp;2월 3주차(토)&nbsp;&nbsp;&nbsp;</td>
-		<td>-</td>
+		<td>Q4153 - 직각삼각형</td>
 	</tr>
 	<tr>
-		<td>-</td>
+		<td>Q5073 - 삼각형과 세 변</td>
 	</tr>
 	<tr>
-		<td>-</td>
+		<td rowspan="2">&nbsp;&nbsp;&nbsp;2월 3주차(토)&nbsp;&nbsp;&nbsp;</td>
+		<td>Q2386 - 도비의 영어공부</td>
 	</tr>
 	<tr>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>-</td>
+		<td>Q5565 - 영수증</td>
 	</tr>
 </table>
 
