@@ -10,6 +10,8 @@ public class Q2959 {
             arr[i]=sc.nextInt();
         }
         Arrays.sort(arr);
-        System.out.println(arr[0]*arr[2]);      
+        System.out.println(arr[0]*arr[2]);
+
+
 	}
 }
