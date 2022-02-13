@@ -11,13 +11,18 @@
 ### Algorithm
 
 - [**백준**](https://www.acmicpc.net/) 사이트에서 알고리즘 문제 선택<br><br>
+<style>
+	th {text-align:center;}
+</style>
 <table>
 	<tr>
-		<th align="center">날짜</th>
-		<th align="center">문제</th>
+		<th>날짜</th>
+		<th>문제</th>
 	</tr>
 	<tr>
-		<td rowspan="6">&nbsp;&nbsp;&nbsp;2월 3주차(수)&nbsp;&nbsp;&nbsp;</td>
+		<th rowspan="6" style="width:150px">
+		2월 2주차<br>9일(수)
+		</th>
 		<td>Q1110 - 더하기 사이클</td>
 	</tr>
 	<tr>
@@ -36,11 +41,16 @@
 		<td>Q5073 - 삼각형과 세 변</td>
 	</tr>
 	<tr>
-		<td rowspan="2">&nbsp;&nbsp;&nbsp;2월 3주차(토)&nbsp;&nbsp;&nbsp;</td>
+		<th rowspan="6" style="width:150px">
+		2월 2주차<br>12일(토)
+		</th>
 		<td>Q2386 - 도비의 영어공부</td>
 	</tr>
 	<tr>
 		<td>Q5565 - 영수증</td>
+	</tr>
+	<tr>
+		<td>Q2902 - KMP는 왜 KMP일까?</td>
 	</tr>
 </table>
 
