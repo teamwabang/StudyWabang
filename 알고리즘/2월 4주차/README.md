@@ -11,16 +11,13 @@
 ### Algorithm
 
 - [**백준**](https://www.acmicpc.net/) 사이트에서 알고리즘 문제 선택<br><br>
-<style>
-	th {text-align:center;}
-</style>
 <table>
 	<tr>
-		<th>날짜</th>
-		<th>문제</th>
+		<th style="text-align:center">날짜</th>
+		<th style="text-align:center">문제</th>
 	</tr>
 	<tr>
-		<th rowspan="2" style="width:150px">
+		<th rowspan="2" style="text-align:center; width:150px">
 		2월 4주차<br>23일(수)
 		</th>
 		<td> - </td>
@@ -29,7 +26,7 @@
 		<td> - </td>
 	</tr>
 	<tr>
-		<th rowspan="2" style="width:150px">
+		<th rowspan="2" style="text-align:center; width:150px">
 		2월 4주차<br>26일(토)
 		</th>
 		<td>-</td>

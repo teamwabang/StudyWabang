@@ -20,12 +20,7 @@
 - 제출할 때 [**백준**](https://www.acmicpc.net/)에서 정답 처리된 것만 제출
 
 ### Collaborator
-
-<style>
-	.center {display:flex; justify-content:center;}
-	td {text-align:center;}
-</style>
-<div class="center">
+<div style="display:flex; justify-content:center;">
 <table>
 	<tr>
 		<td><img src="https://github.com/bohongu.png" width="150"></td>
@@ -35,23 +30,23 @@
 		<td><img src="https://github.com/martin1341.png" width="150"></td>
 	</tr>
 	<tr>
-		<td><br>
+		<td style="text-align:center"><br>
 		<a href="https://github.com/bohongu"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=bitdefender&logoColor=white" /></a>&nbsp;
 		<a href="https://bohongu.tistory.com"><img src="https://img.shields.io/badge/Blog-ED1C24?style=flat&logo=bitdefender&logoColor=white" /></a>
 		</td>
-		<td><br>
+		<td style="text-align:center"><br>
 		<a href="https://github.com/tkdalsgks"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=bitdefender&logoColor=white" /></a>&nbsp;
 		<a href="https://tkdalsgks.tistory.com"><img src="https://img.shields.io/badge/Blog-ED1C24?style=flat&logo=bitdefender&logoColor=white" /></a>
 		</td>
-		<td><br>
+		<td style="text-align:center"><br>
 		<a href="https://github.com/yuuulya"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=bitdefender&logoColor=white" /></a>&nbsp;
 		<a href="https://bluepinetree.tistory.com"><img src="https://img.shields.io/badge/Blog-ED1C24?style=flat&logo=bitdefender&logoColor=white" /></a>
 		</td>
-		<td><br>
+		<td style="text-align:center"><br>
 		<a href="https://github.com/jihye-12"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=bitdefender&logoColor=white" /></a>&nbsp;
 		<a href="https://wisecodinglife.tistory.com"><img src="https://img.shields.io/badge/Blog-ED1C24?style=flat&logo=bitdefender&logoColor=white" /></a>
 		</td>
-		<td><br>
+		<td style="text-align:center"><br>
 		<a href="https://github.com/martin1341"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=bitdefender&logoColor=white" /></a>
 		</td>
 	</tr>

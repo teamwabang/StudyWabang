@@ -11,16 +11,13 @@
 ### Algorithm
 
 - [**백준**](https://www.acmicpc.net/) 사이트에서 알고리즘 문제 선택<br><br>
-<style>
-	th {text-align:center;}
-</style>
 <table>
 	<tr>
 		<th>날짜</th>
 		<th>문제</th>
 	</tr>
 	<tr>
-		<th rowspan="3" style="width:150px">
+		<th rowspan="3" style="text-align:center; width:150px">
 		2월 3주차<br>16일(수)
 		</th>
 		<td>Q2775 - 부녀회장이 될테야</td>
@@ -32,7 +29,7 @@
 		<td>Q2875 - 대회 Or 인턴</td>
 	</tr>
 	<tr>
-		<th rowspan="7" style="width:150px">
+		<th rowspan="7" style="text-align:center; width:150px">
 		2월 3주차<br>19일(토)
 		</th>
 		<td>-</td>
