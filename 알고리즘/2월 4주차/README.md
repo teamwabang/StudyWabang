@@ -45,7 +45,7 @@
 	</tr>
 	<tr>
 		<td align="center" width="100px">2월 4주차<br>26일(토)</td>
-		<td align="center" width="50px">해시</td>
+		<td align="center" width="80px">해시</td>
 		<td align="center">1번 김율리아 / 2번 정재홍</td>
 		<td>-</td>
 </table>
