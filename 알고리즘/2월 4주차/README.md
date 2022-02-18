@@ -10,7 +10,8 @@
 
 ### Algorithm
 
-- [**백준**](https://www.acmicpc.net/) 사이트에서 알고리즘 문제 선택<br><br>
+- [**백준**](https://www.acmicpc.net/) 사이트에서 알고리즘 문제 선택
+- [**자료구조와 함께 배우는 알고리즘 입문(자바편)**](https://www.easyspub.co.kr/) 책에서 챕터 순서별 발표<br><br>
 <table>
 	<tr>
 		<th align="center">날짜</th>
@@ -35,8 +36,7 @@
 		<td>-</td>
 	</tr>
 </table>
-<br><br>
-- [**자료구조와 함께 배우는 알고리즘 입문**](https://www.easyspub.co.kr/) 책에서 챕터 순서별 발표<br><br>
+<br>
 <table>
 	<tr>
 		<th>발표일</th>
