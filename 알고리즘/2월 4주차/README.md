@@ -36,7 +36,7 @@
 	</tr>
 </table>
 <br><br>
-- [**자료구조와 함께 배우는 알고리즘 입문(자바편)**](https://www.acmicpc.net/) 책에서 챕터 순서별 발표<br><br>
+- [**자료구조와 함께 배우는 알고리즘 입문**](https://www.easyspub.co.kr/) 책에서 챕터 순서별 발표<br><br>
 <table>
 	<tr>
 		<th>발표일</th>
