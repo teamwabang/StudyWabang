@@ -32,7 +32,7 @@
 		<td>Q1871 - 좋은 자동차 번호판</td>
 	</tr>
 	<tr>
-		<th rowspan="3" align="center" width="150px">
+		<th rowspan="4" align="center" width="150px">
 		2월 3주차<br>19일(토)
 		</th>
 		<td>Q2896 - 무알콜 칵테일</td>
