@@ -1,6 +1,6 @@
 # 알고리즘 스터디 - 2월 4주차
 
-> 2022.02. 23(수), 2022.02.26(토)
+> 2022.02.23(수), 2022.02.26(토)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/66001046/152260938-51b1334f-297f-4092-8f37-f02dc9cd3a07.png" alt="coding" width="150px" />
@@ -18,22 +18,22 @@
 		<th align="center">문제</th>
 	</tr>
 	<tr>
-		<th rowspan="2" align="center" width="150px">
+		<th align="center" width="150px">
 		2월 4주차<br>23일(수)
 		</th>
-		<td> - </td>
+		<td> 미니프로젝트 대체 </td>
 	</tr>
 	<tr>
-		<td> - </td>
-	</tr>
-	<tr>
-		<th rowspan="2" align="center" width="150px">
+		<th rowspan="3" align="center" width="150px">
 		2월 4주차<br>26일(토)
 		</th>
-		<td>-</td>
+		<td>Q1076 - 저항</td>
 	</tr>
 	<tr>
-		<td>-</td>
+		<td>Q2167 - 2차원 배열의 합</td>
+	</tr>
+	<tr>
+		<td>Q2839 - 설탕 배달</td>
 	</tr>
 </table>
 <br>
