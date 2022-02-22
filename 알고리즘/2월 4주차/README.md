@@ -31,18 +31,5 @@
 	</tr>
 	
 </table>
-<br>
-<table>
-	<tr>
-		<th>발표일</th>
-		<th>이론</th>
-		<th width="250px">발표자</th>
-		<th>발표내용</th>
-	</tr>
-	<tr>
-		<td align="center" width="100px">2월 4주차<br>26일(토)</td>
-		<td align="center">배열, 반복, 클래스</td>
-		<td align="center">1번 김율리아 / 2번 정재홍</td>
-		<td>-</td>
-</table>
+
 
