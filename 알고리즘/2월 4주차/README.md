@@ -24,17 +24,12 @@
 		<td> 미니프로젝트 대체 </td>
 	</tr>
 	<tr>
-		<th rowspan="3" align="center" width="150px">
+		<th align="center" width="150px">
 		2월 4주차<br>26일(토)
 		</th>
-		<td>Q1076 - 저항</td>
+		<td> 미니프로젝트 대체</td>
 	</tr>
-	<tr>
-		<td>Q2167 - 2차원 배열의 합</td>
-	</tr>
-	<tr>
-		<td>Q2839 - 설탕 배달</td>
-	</tr>
+	
 </table>
 <br>
 <table>
