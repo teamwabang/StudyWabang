@@ -18,13 +18,16 @@
 		<th align="center">문제</th>
 	</tr>
 	<tr>
-		<th rowspan="2" align="center" width="150px">
+		<th rowspan="3" align="center" width="150px">
 		3월 1주차<br>02일(수)
 		</th>
-		<td> - </td>
+		<td> Q1076 - 저항 </td>
 	</tr>
 	<tr>
-		<td> - </td>
+		<td> Q2839 - 설탕 배달 </td>
+	</tr>
+	<tr>
+		<td> Q2167 - 2 </td>
 	</tr>
 	<tr>
 		<th rowspan="2" align="center" width="150px">
