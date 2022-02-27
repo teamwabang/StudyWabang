@@ -27,7 +27,7 @@
 		<td> Q2839 - 설탕 배달 </td>
 	</tr>
 	<tr>
-		<td> Q2167 - 2 </td>
+		<td> Q2167 - 2차원 배열의 합 </td>
 	</tr>
 	<tr>
 		<th rowspan="2" align="center" width="150px">
