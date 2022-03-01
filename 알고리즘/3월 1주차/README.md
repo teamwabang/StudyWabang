@@ -29,15 +29,6 @@
 	<tr>
 		<td> Q2167 - 2차원 배열의 합 </td>
 	</tr>
-	<tr>
-		<th rowspan="2" align="center" width="150px">
-		3월 1주차<br>05일(토)
-		</th>
-		<td> - </td>
-	</tr>
-	<tr>
-		<td> - </td>
-	</tr>
 </table>
 <br>
 <table>
