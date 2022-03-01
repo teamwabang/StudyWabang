@@ -25,7 +25,7 @@ public class Q1076_한상민 {
 		// brown 값은 1, 10 * 1 = 10 + 1 = 11
 		// brown 곱은 10, Math.pow 거듭제곱, 10의 result3 제곱
 		long result = (long)((10 * result1 + result2) * Math.pow(10, result3));
-		System.out.println(result);	// 세 입력값이 black이라고 가정하면 (10 * 1 + 1) = 11 * 10 = 110
+		System.out.println(result);	// 세 입력값이 brown이라고 가정하면 (10 * 1 + 1) = 11 * 10 = 110
 		
 		sc.close();
 	}
