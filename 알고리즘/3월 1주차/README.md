@@ -45,6 +45,6 @@
 		<td align="center" width="100px">3월 1주차<br>05일(토)</td>
 		<td align="center">1번 김율리아 / 2번 정재홍</td>
 		<td align="center">배열, 반복, 클래스</td>
-		<td align="center"><a href="">바로가기</td>
+		<td align="center"><a href="https://github.com/Wa-bang/StudyWabang/tree/main/알고리즘%20발표자료/알고리즘%20발표자료%2022-03-05">바로가기</td>
 </table>
 
