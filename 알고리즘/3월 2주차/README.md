@@ -1,12 +1,10 @@
 # 알고리즘 스터디 - 3월 2주차
 
-> 2022.03.16(수), 2022.03.19(토)
+> 2022.03.09(수), 2022.03.12(토)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/66001046/152260938-51b1334f-297f-4092-8f37-f02dc9cd3a07.png" alt="coding" width="150px" />
 </p>
-
-
 
 ### Algorithm
 
@@ -19,12 +17,9 @@
 	</tr>
 	<tr>
 		<th rowspan="2" align="center" width="150px">
-		3월 2주차<br>16일(수)
+		3월 2주차<br>9일(수)
 		</th>
-		<td> - </td>
-	</tr>
-	<tr>
-		<td> - </td>
+		<td> Q1094 - 막대기 </td>
 	</tr>
 </table>
 <br>
@@ -36,9 +31,8 @@
 		<th>발표자료</th>
 	</tr>
 	<tr>
-		<td align="center" width="100px">3월 2주차<br>19일(토)</td>
+		<td align="center" width="100px">3월 2주차<br>12일(토)</td>
 		<td align="center">3번 한상민 / 4번 엄지혜</td>
 		<td align="center">검색 알고리즘, 선형 검색, 이진 검색</td>
 		<td align="center"><a href="">바로가기</td>
 </table>
-
