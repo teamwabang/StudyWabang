@@ -1,6 +1,6 @@
 # 알고리즘 스터디 - 3월 3주차
 
-> 2022.03.16(수), 2022.03.18(금)
+> 2022.03.16(수)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/66001046/152260938-51b1334f-297f-4092-8f37-f02dc9cd3a07.png" alt="coding" width="150px" />
@@ -31,8 +31,8 @@
 		<th>발표자료</th>
 	</tr>
 	<tr>
-		<td align="center" width="100px">3월 3주차<br>18일(금)</td>
-		<td align="center">5번 박병권 / 1번 김율리아</td>
-		<td align="center">스택, 큐</td>
+		<td align="center" width="100px"> - </td>
+		<td align="center"> - </td>
+		<td align="center">팀 프로젝트(와방)로 인한 일시 중단</td>
 		<td align="center"><a href="">바로가기</td>
 </table>
