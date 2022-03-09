@@ -19,7 +19,10 @@
 		<th rowspan="2" align="center" width="150px">
 		3월 3주차<br>16일(수)
 		</th>
-		<td> - </td>
+		<td> Q1427 - 소트인사이드 </td>
+	</tr>
+	<tr>
+		<td> Q1652 - 누울 자리를 찾아라 </td>
 	</tr>
 </table>
 <br>
