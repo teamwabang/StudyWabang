@@ -33,6 +33,6 @@
 	<tr>
 		<td align="center" width="100px">3월 2주차<br>12일(토)</td>
 		<td align="center">3번 한상민 / 4번 엄지혜</td>
-		<td align="center">검색 알고리즘, 선형 검색, 이진 검색</td>
+		<td align="center">팀 프로젝트(와방)로 인한 일시 중단</td>
 		<td align="center"><a href="">바로가기</td>
 </table>
