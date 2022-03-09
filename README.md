@@ -1,4 +1,4 @@
-# 멀티캠퍼스 F반 - 코딩 스터디
+# 와방 - 코딩 스터디
 
 > Since 2022.01.27
 
@@ -52,7 +52,7 @@ for(int i __) {
 		</td>
 		<td align="center"><br>
 		<a href="https://github.com/tkdalsgks"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>&nbsp;
-		<a href="https://tkdalsgks.tistory.com"><img src="https://img.shields.io/badge/Blog-ED1C24?style=flat&logo=bitdefender&logoColor=white" /></a>
+		<a href="https://tkdalsgks.github.io"><img src="https://img.shields.io/badge/Blog-ED1C24?style=flat&logo=bitdefender&logoColor=white" /></a>
 		</td>
 		<td align="center"><br>
 		<a href="https://github.com/yuuulya"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>&nbsp;
