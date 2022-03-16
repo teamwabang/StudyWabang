@@ -1,0 +1,34 @@
+# 알고리즘 스터디 - 3월 4주차
+
+> 2022.03.23(수), 2022.03.26(토)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/66001046/152260938-51b1334f-297f-4092-8f37-f02dc9cd3a07.png" alt="coding" width="150px" />
+</p>
+
+
+
+### Algorithm
+
+- [**백준**](https://www.acmicpc.net/) 사이트에서 알고리즘 문제 선택
+<table>
+	<tr>
+		<th align="center">날짜</th>
+		<th align="center">문제</th>
+	</tr>
+	<tr>
+		<th align="center" width="150px">
+		3월 4주차<br>23일(수)
+		</th>
+		<td> 미니프로젝트 대체 </td>
+	</tr>
+	<tr>
+		<th align="center" width="150px">
+		3월 4주차<br>26일(토)
+		</th>
+		<td> 미니프로젝트 대체</td>
+	</tr>
+	
+</table>
+
+
