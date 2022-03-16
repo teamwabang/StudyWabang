@@ -7,6 +7,7 @@ public class Q1652_김율리아 {
 		Scanner sc = new Scanner(System.in);
 		
 		int N = sc.nextInt();
+		//주어진 조언이 NxN형식이므로 2차원 배열을 사용해야겠다고 생각함
 		String[][] arr = new String[N][N];
 	
 		int cnt = 0; 
@@ -14,14 +15,15 @@ public class Q1652_김율리아 {
 		int row = 0; 
 		int column = 0;
 		
-		//입력받은 것을 2차원 배열에 삽입
+		//입력받은 것을 for문을 이용해 2차원 배열에 하나씩 잘라서 삽입
 		for(int i=0; i<N; i++) {
 			String[] line = sc.next().split("");
 			for(int j=0; j<N; j++) {
 	             arr[i][j] = line[j];
 			}
 		}
-				
+		
+		//전체 N번만큼 for문 돌림		
 		for(int i=0; i<N; i++) {
 			for(int j=0; j<N; j++) {
 				//##가로
