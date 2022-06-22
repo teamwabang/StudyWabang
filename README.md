@@ -38,14 +38,28 @@ for(int i __) {
 ### Collaborator
 <table align="center">
 	<tr>
-		<td><img src="https://github.com/bohongu.png" width="160"></td>
-		<td><img src="https://github.com/tkdalsgks.png" width="160"></td>
-		<td><img src="https://github.com/yuuulya.png" width="160"></td>
-		<td><img src="https://github.com/jihye-12.png" width="160"></td>
-		<td><img src="https://github.com/martin1341.png" width="160"></td>
-		<td><img src="https://github.com/minah13.png" width="160"></td>
+		<td><img src="https://github.com/yuuulya.png" width="150"></td>
+		<td><img src="https://github.com/martin1341.png" width="150"></td>
+		<td><img src="https://github.com/jihye-12.png" width="150"></td>
+		<td><img src="https://github.com/minah13.png" width="150"></td>
+		<td><img src="https://github.com/bohongu.png" width="150"></td>
+		<td><img src="https://github.com/tkdalsgks.png" width="150"></td>
 	</tr>
 	<tr>
+		<td align="center"><br>
+		<a href="https://github.com/yuuulya"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>&nbsp;
+		<a href="https://bluepinetree.tistory.com"><img src="https://img.shields.io/badge/Blog-ED1C24?style=flat&logo=bitdefender&logoColor=white" /></a>
+		</td>
+		<td  align="center"><br>
+		<a href="https://github.com/martin1341"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+		</td>
+		<td align="center"><br>
+		<a href="https://github.com/jihye-12"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>&nbsp;
+		<a href="https://wisecodinglife.tistory.com"><img src="https://img.shields.io/badge/Blog-ED1C24?style=flat&logo=bitdefender&logoColor=white" /></a>
+		</td>
+		<td  align="center"><br>
+		<a href="https://github.com/minah13"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+		</td>
 		<td align="center"><br>
 		<a href="https://github.com/bohongu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>&nbsp;
 		<a href="https://bohongu.tistory.com"><img src="https://img.shields.io/badge/Blog-ED1C24?style=flat&logo=bitdefender&logoColor=white" /></a>
@@ -53,20 +67,6 @@ for(int i __) {
 		<td align="center"><br>
 		<a href="https://github.com/tkdalsgks"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>&nbsp;
 		<a href="https://tkdalsgks.github.io"><img src="https://img.shields.io/badge/Blog-ED1C24?style=flat&logo=bitdefender&logoColor=white" /></a>
-		</td>
-		<td align="center"><br>
-		<a href="https://github.com/yuuulya"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>&nbsp;
-		<a href="https://bluepinetree.tistory.com"><img src="https://img.shields.io/badge/Blog-ED1C24?style=flat&logo=bitdefender&logoColor=white" /></a>
-		</td>
-		<td align="center"><br>
-		<a href="https://github.com/jihye-12"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>&nbsp;
-		<a href="https://wisecodinglife.tistory.com"><img src="https://img.shields.io/badge/Blog-ED1C24?style=flat&logo=bitdefender&logoColor=white" /></a>
-		</td>
-		<td  align="center"><br>
-		<a href="https://github.com/martin1341"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-		</td>
-		<td  align="center"><br>
-		<a href="https://github.com/minah13"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 		</td>
 	</tr>
 </table>
