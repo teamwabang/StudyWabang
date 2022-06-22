@@ -38,12 +38,12 @@ for(int i __) {
 ### Collaborator
 <table align="center">
 	<tr>
-		<td><img src="https://github.com/yuuulya.png" width="150"></td>
-		<td><img src="https://github.com/martin1341.png" width="150"></td>
-		<td><img src="https://github.com/jihye-12.png" width="150"></td>
-		<td><img src="https://github.com/minah13.png" width="150"></td>
-		<td><img src="https://github.com/bohongu.png" width="150"></td>
-		<td><img src="https://github.com/tkdalsgks.png" width="150"></td>
+		<td><img src="https://github.com/yuuulya.png" width="160"></td>
+		<td><img src="https://github.com/martin1341.png" width="160"></td>
+		<td><img src="https://github.com/jihye-12.png" width="160"></td>
+		<td><img src="https://github.com/minah13.png" width="160"></td>
+		<td><img src="https://github.com/bohongu.png" width="160"></td>
+		<td><img src="https://github.com/tkdalsgks.png" width="160"></td>
 	</tr>
 	<tr>
 		<td align="center"><br>
