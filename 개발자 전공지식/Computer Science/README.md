@@ -18,16 +18,18 @@
 
 - ### Data Structure
 
-  - [Array](https://)
-  - [LinkedList](https://)
-  - [Array & ArrayList & LinkedList](https://)
-  - [스택(Stack) & 큐(Queue)](https://)
-  - [힙(Heap)](https://)
+  - [배열(Array)](https://)
+  - [리스트(List)](https://)
+  - [스택(Stack)](https://)
+  - [큐(Queue)](https://)
+  - [그래프(Graph)](https://)
   - [트리(Tree)](https://)
-  - [이진탐색트리(Binary Search Tree)](https://)
-  - [해시(Hash)](https://)
+  - [해시 테이블(Hash Table)](https://)
+  - [힙(Heap)](https://)
   - [트라이(Trie)](https://)
-  - [B-Tree & B+Tree](https://)
+  - [이진트리(B Tree, B+ Tree)](https://)
+  - [이진탐색트리(Binary Search Tree)](https://)
+  - [ArrayList와 LinkedList의 차이](https://)
 
   <br>
 
@@ -44,6 +46,7 @@
   - [트랜잭션 격리 수준(Transaction Isolation Level)](https://)
   - [저장 프로시저(Stored PROCEDURE)](https://)
   - [레디스(Redis)](https://)
+  - [클러스터링(Clustering) vs 리플리케이션(Replication)](https://)
 
   <br>
 
@@ -57,6 +60,12 @@
   - [HTTP & HTTPS](https://)
   - [TLS/SSL handshake](https://)
   - [로드 밸런싱(Load Balancing)](https://)
+  - [레디스(Redis)](https://)
+  - [쿠키(Cookie)와 세션(Session)](https://)
+  - [GET 메소드와 POST 메소드의 차이](https://)
+  - [REST와 RESTful](https://)
+  - [Socket.io와 WebSocket](https://)
+  - [URI / URN / URL](https://)
   - [Blocking,Non-blocking & Synchronous,Asynchronous](https://)
   - [Blocking & Non-Blocking I/O](https://)
 
