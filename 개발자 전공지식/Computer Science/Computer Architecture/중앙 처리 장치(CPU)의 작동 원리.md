@@ -20,9 +20,9 @@ CPU는 컴퓨터에서 가장 핵심적인 역할을 수행하는 부분으로�
 
 산술 및 논리 연상 수행
 
-![ALU.png](%E1%84%8C%E1%85%AE%E1%86%BC%E1%84%8B%E1%85%A1%E1%86%BC%20%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%20%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%B5(CPU)%E1%84%8B%E1%85%B4%20%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%83%E1%85%A9%E1%86%BC%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%85%E1%85%B5%2074cb01f3f887459b9f325b956549f829/ALU.png)
+![ALU.png]https://s3.us-west-2.amazonaws.com/secure.notion-static.com/52a4c3dc-3c1b-44e4-b54a-8e312e918148/ALU.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220712%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220712T015849Z&X-Amz-Expires=86400&X-Amz-Signature=7d7f2ec2e21aca94c7b806b49dc692f6334aeb9893b5799ddf6d7f1584ea1dc1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22ALU.png%22&x-id=GetObject
 
-![CU.png](%E1%84%8C%E1%85%AE%E1%86%BC%E1%84%8B%E1%85%A1%E1%86%BC%20%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%20%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%B5(CPU)%E1%84%8B%E1%85%B4%20%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%83%E1%85%A9%E1%86%BC%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%85%E1%85%B5%2074cb01f3f887459b9f325b956549f829/CU.png)
+![CU.png]https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1cbe7bf6-f1e8-4641-b447-e1eba1953cd3/CU.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220712%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220712T015932Z&X-Amz-Expires=86400&X-Amz-Signature=ae3aa2b25916f07c046756083f905cfe0e84c7452b0661e330bf4dc51e1a8540&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22CU.png%22&x-id=GetObject)
 
 1. memory(주 기억 장치)에서 명령어를 꺼내 해석
 2. 해석한 것을 토대로 제어 신호 전송
@@ -65,7 +65,7 @@ CPU는 컴퓨터에서 가장 핵심적인 역할을 수행하는 부분으로�
 
 CPU가 실행할 명령어의 집합
 
-![명령어세트.PNG](%E1%84%8C%E1%85%AE%E1%86%BC%E1%84%8B%E1%85%A1%E1%86%BC%20%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%20%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%B5(CPU)%E1%84%8B%E1%85%B4%20%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%83%E1%85%A9%E1%86%BC%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%85%E1%85%B5%2074cb01f3f887459b9f325b956549f829/%EB%AA%85%EB%A0%B9%EC%96%B4%EC%84%B8%ED%8A%B8.png)
+![명령어세트.PNG]https://s3.us-west-2.amazonaws.com/secure.notion-static.com/99aaa25c-32aa-4f69-8bfc-e0087eb0218d/%EB%AA%85%EB%A0%B9%EC%96%B4%EC%84%B8%ED%8A%B8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220712%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220712T015949Z&X-Amz-Expires=86400&X-Amz-Signature=fc63ebe970edcf88e273af538f523cba758039f3f9fd64398c10a9c56705f6bc&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25EB%25AA%2585%25EB%25A0%25B9%25EC%2596%25B4%25EC%2584%25B8%25ED%258A%25B8.PNG.png%22&x-id=GetObject
 
 ### 연산 코드
 
@@ -92,12 +92,12 @@ CPU가 주 기억 장치에서 하나의 명령어를 읽어와 수행하는 일
 
 - 인출 사이클
 
-![인출.PNG](%E1%84%8C%E1%85%AE%E1%86%BC%E1%84%8B%E1%85%A1%E1%86%BC%20%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%20%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%B5(CPU)%E1%84%8B%E1%85%B4%20%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%83%E1%85%A9%E1%86%BC%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%85%E1%85%B5%2074cb01f3f887459b9f325b956549f829/%EC%9D%B8%EC%B6%9C.png)
+![인출.PNG]https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0ac7aaff-0884-4ca3-804c-6092cd199c02/%EC%9D%B8%EC%B6%9C.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220712%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220712T020014Z&X-Amz-Expires=86400&X-Amz-Signature=d1d2094ba23ed075172d83ab5c2e121f8f176c155968fe25651252e469c86fea&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25EC%259D%25B8%25EC%25B6%259C.PNG.png%22&x-id=GetObject
 
 1. PC에 저장된 주소를 MAR으로 전달
 2. 저장된 내용을 토대로 주 기억 장치의 해당 주소에서 명령어 인출
 3. 인출한 명령어를 MBR에 저장
-4. 다음 명령어를 인출하기 위해 PC값 증가 
+4. 다음 명령어를 인출하기 위해 PC값 증가
 5. MBR에 저장된 내용을 IR에 전달
 
 ```
@@ -107,10 +107,8 @@ T2 : IR <- MBR
 ```
 
 - 실행 사이클
-    
-    
 
-![실행.PNG](%E1%84%8C%E1%85%AE%E1%86%BC%E1%84%8B%E1%85%A1%E1%86%BC%20%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%20%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%B5(CPU)%E1%84%8B%E1%85%B4%20%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%83%E1%85%A9%E1%86%BC%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%85%E1%85%B5%2074cb01f3f887459b9f325b956549f829/%EC%8B%A4%ED%96%89.png)
+![실행.PNG]https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d302ce23-66df-4cc3-aa66-a9d16a7366f9/%EC%8B%A4%ED%96%89.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220712%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220712T020023Z&X-Amz-Expires=86400&X-Amz-Signature=6df92de62e30b915031a03307206f8163b47526ec2dbcd02a3d8e3343a82e88a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25EC%258B%25A4%25ED%2596%2589.PNG.png%22&x-id=GetObject
 
 ```
 T0 : MAR <- IR[Addr]
