@@ -1,4 +1,4 @@
-package test;
+package algorithm;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -7,7 +7,7 @@ import java.io.OutputStreamWriter;
 import java.util.ArrayDeque;
 import java.util.StringTokenizer;
 
-public class Q10866_ÇÑ»ó¹Î {
+public class Q10866_í•œìƒë¯¼ {
 
 	public static void main(String[] args) throws Exception {
 		
