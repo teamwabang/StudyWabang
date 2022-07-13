@@ -1,5 +1,7 @@
 # Computer Science
 
+<br>
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/66001046/152260938-51b1334f-297f-4092-8f37-f02dc9cd3a07.png" alt="coding" width="150px" />
 </p>
@@ -27,9 +29,10 @@
   - [해시 테이블(Hash Table)](https://)
   - [힙(Heap)](https://)
   - [트라이(Trie)](https://)
-  - [이진트리(B Tree, B+ Tree)](https://)
-  - [이진탐색트리(Binary Search Tree)](https://)
+  - [우선순위 큐(Priority Queue)](https://)
+  - [BST(Binary Search Tree)와 Binary Tree](https://)
   - [ArrayList와 LinkedList의 차이](https://)
+  - [BFS & DFS](https://)
 
   <br>
 
@@ -69,7 +72,8 @@
   - [REST와 RESTful](https://)
   - [Socket.io와 WebSocket](https://)
   - [URI & URN & URL](https://)
-  - [Blocking,Non-blocking & Synchronous,Asynchronous](https://)
+  - [DNS(Domain Name System)](https://)
+  - [Blocking, Non-blocking & Synchronous, Asynchronous](https://)
   - [Blocking & Non-Blocking I/O](https://)
 
   <br>
@@ -97,7 +101,7 @@
 
 - ### Software Engineering
 
-  - [클린코드 & 리팩토링](https://) / [클린코드 & 시큐어코딩](https://)
+  - [클린코드 & 리팩토링 & 시큐어코딩](https://)
   - [TDD(Test Driven Development)](https://)
   - [애자일(Agile)](https://)
   - [객체 지향 프로그래밍(Object-Oriented Programming)](https://)
