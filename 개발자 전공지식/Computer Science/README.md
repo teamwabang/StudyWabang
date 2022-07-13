@@ -1,7 +1,7 @@
 # Computer Science
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/66001046/152260938-51b1334f-297f-4092-8f37-f02dc9cd3a07.png" alt="coding" width="150px" />
+<img src="https://user-images.githubusercontent.com/66001046/152260938-51b1334f-297f-4092-8f37-f02dc9cd3a07.png" alt="coding" width="150px" />
 </p>
 
 - ### Computer Architecture
@@ -35,13 +35,16 @@
 
 - ### Database
 
-  - [키(Key) 정리](https://)
-  - [SQL - JOIN](https://)
+  - [DDL & DML & DCL](https://)
+  - [키(Key)의 개념 및 종류](https://)
+  - [조인(Join)](https://)
   - [SQL Injection](https://)
-  - [SQL vs NoSQL](https://)
+  - [RDBMS vs NoSQL](https://)
   - [정규화(Nomalization)](https://)
   - [이상(Anomaly)](https://)
   - [인덱스(INDEX)](https://)
+  - [옵티마이저(Optimizer)](https://)
+  - [DB 튜닝(Tuning)](https://)
   - [트랜잭션(Transaction)](https://)
   - [트랜잭션 격리 수준(Transaction Isolation Level)](https://)
   - [저장 프로시저(Stored PROCEDURE)](https://)
@@ -65,7 +68,7 @@
   - [GET 메소드와 POST 메소드의 차이](https://)
   - [REST와 RESTful](https://)
   - [Socket.io와 WebSocket](https://)
-  - [URI / URN / URL](https://)
+  - [URI & URN & URL](https://)
   - [Blocking,Non-blocking & Synchronous,Asynchronous](https://)
   - [Blocking & Non-Blocking I/O](https://)
 
@@ -73,8 +76,9 @@
 
 - ### Operating System
 
-  - [운영체제란](https://)
+  - [운영체제란?](https://)
   - [프로세스 vs 스레드](https://)
+  - [멀티프로세스 vs 멀티스레드](https://)
   - [프로세스 주소 공간](https://)
   - [인터럽트(Interrupt)](https://)
   - [시스템 콜(System Call)](https://)
@@ -82,7 +86,7 @@
   - [IPC(Inter Process Communication)](https://)
   - [CPU 스케줄링](https://)
   - [데드락(DeadLock)](https://)
-  - [Race Condition](https://)
+  - [경쟁 상태(Race Condition)](https://)
   - [세마포어(Semaphore) & 뮤텍스(Mutex)](https://)
   - [페이징 & 세그먼테이션](https://)
   - [페이지 교체 알고리즘](https://)
