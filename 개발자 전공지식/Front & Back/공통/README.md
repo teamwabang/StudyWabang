@@ -5,7 +5,7 @@
 <div align="center">
 <table>
 	<tr align="center">
-		<th colspan="2"> 발표자 </th>
+		<th colspan="4"> 발표자 </th>
 	</tr>
 	<tr align="center">
 		<td><img src="https://github.com/jihye-12.png" width="160"></td>
