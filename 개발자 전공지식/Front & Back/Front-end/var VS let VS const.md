@@ -92,4 +92,11 @@
 
 # Scope
 
-### Execute-Context를 통해 설명
+|  | var | let | const |
+| --- | --- | --- | --- |
+| global scope | ✔ | ❌ | ❌ |
+| script scope | ❌ | ✔ | ✔ |
+| function local scope | ✔ | ✔ | ✔ |
+| block scope | ❌ | ✔ | ✔ |
+| 재선언 | ✔ | ❌ | ❌ |
+| 재할당 | ✔ | ✔ | ❌ |
