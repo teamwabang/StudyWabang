@@ -21,7 +21,7 @@
 		<td> 큐 </td>
 		<td></td>
 	</tr>
-	tr align="center">
+	<tr align="center">
 		<td> 10773 </td>
 		<td> 제로 </td>
 		<td></td>
