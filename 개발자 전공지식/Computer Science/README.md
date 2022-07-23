@@ -35,6 +35,8 @@
   - [BST(Binary Search Tree)와 Binary Tree](https://)
   - [ArrayList와 LinkedList의 차이](https://)
   - [BFS & DFS](https://)
+  - [레드블랙 트리(Red-Black Tree](https://)
+  - [AVL(Adelson-Velsky Landis) 트리](https://)
 
   <br>
 
@@ -98,6 +100,8 @@
   - [페이지 교체 알고리즘](https://)
   - [메모리(Memory)](https://)
   - [파일 시스템](https://)
+  - [컨텍스트 스위칭(Context Switching)](https://)
+  - [세마포어(Semaphore)와 뮤텍스(Mutex)의 차이](https://)
 
   <br>
 
