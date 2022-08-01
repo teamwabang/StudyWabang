@@ -52,9 +52,9 @@ DOM 노드 트리를 복제한 자바스크립트 객체
    - 하지만 DOM조작이 비효율적이라는 것은 DOM tree 업데이트할 때가 아닌 렌더할 때 비용이 많이 든다는 것
    - Virtual DOM은 렌더링 하지 않고 메모리 상에서 빠르게 트리를 변경하는 것 뿐
 4. `diff(previous:VTree, current:VTree) -> PatchObject`
+매개변수로 이전 DOM Tree와 새로운 DOM Tree를 받아옴 이 함수로 변경 전 후 DOM Tree의 차이를 확인 
 
-매개변수로 이전 DOM Tree와 새로운 DOM Tree를 받아옴 이 함수로 변경 전 후 DOM Tree의 차이를 확인 5. `patch(rootNode:DOMNode, patches:PatchObject) -> DOMNode newRootNode`
-
+5. `patch(rootNode:DOMNode, patches:PatchObject) -> DOMNode newRootNode`
 차이를 확인 후 실제 DOM에 변경된 부분을 적용 후 렌더링
 
 [https://www.youtube.com/watch?v=6rDBqVHSbgM](https://www.youtube.com/watch?v=6rDBqVHSbgM)
