@@ -43,7 +43,7 @@ DOM 노드 트리를 복제한 자바스크립트 객체
 
 ## Virtual DOM의 동작방식
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4319bda7-30ad-49c8-b9ce-193f32620cfc/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220802%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220802T113654Z&X-Amz-Expires=86400&X-Amz-Signature=46140ce8e2a1246ac96c8b14a8829addac7c5c90f3c666d93dca9bc4cb56c9a4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c2c640ad-7fca-43a4-9fd4-04a97d581347/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220802%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220802T113755Z&X-Amz-Expires=86400&X-Amz-Signature=3bd34abad6133f94a877bc4daa9b2824a7e4a79195c17048ad268884cae24021&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 1. 브라우저가 실제 DOM tree 생성하고 브라우저 화면에 ui 렌더
 2. DOM tree를 가벼운 버전으로 복사해 Virtual DOM을 만듦
