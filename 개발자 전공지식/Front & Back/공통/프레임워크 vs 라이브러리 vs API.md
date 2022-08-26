@@ -28,7 +28,7 @@
 ## 라이브러리 vs 프레임워크
 
 - 라이브러리, 프레임워크 둘다 다른 누군가가 쓴 코드
-- 우리의 프로젝트를 위해서 가져다 쓰는 것
+- 우리의 프로젝트를 위해서 쓰는 것
 
 ## 누가 코드를 컨트롤 하는가? ( 내가 코드를 컨트를 하는가 vs 누군가의 규칙을 따라 코딩하는가 )
 
@@ -43,14 +43,14 @@
 - 프레임워크를 사용할 땐 프레임워크의 규칙을 따라한다 ( 내가 코드의 규칙을 결정하는 입장이 아님 )
 - “내가” 컨트롤하지 않는다. 그냥 규칙을 따라갈 뿐
 - 정적 리소스는 src/main/resources/static/에 저장한다.
-- [application.properties](http://application.properties) ( spring boot )
+- application.properties ( spring boot )
 - 스프링 규칙에 따라 코드들을 잘 넣어두면 스프링이 실행시킴
 
 ## React는 라이브러리인가? 프레임워크인가?
 
 **라이브러리 측면**
 
-- A JavaScript library for building user intefraces ( 공식문서 )
+- A JavaScript library for building user interfaces ( 공식문서 )
 - UI를 빌드할 때 “내가” 리액트를 부른다
 - 리액트의 규칙 ( 폴더 구조, 컴포넌트명 등 )이 없다.
 
