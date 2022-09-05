@@ -20,14 +20,14 @@
 ## Required Reading
 
 #### 1. 알고리즘 (잠시 휴식)
-- ~~[**백준**](https://www.acmicpc.net/) 에서 알고리즘 문제를 선택하여 정해진 날짜까지 문제 풀고 업로드 (매주 수 21:00 까지, 주 1회)~~
+- [**백준**](https://www.acmicpc.net/) 에서 알고리즘 문제를 선택하여 정해진 날짜까지 문제 풀고 업로드 ~~(매주 수 21:00 까지, 주 1회)~~
 - 제출 파일 형식 : `Q문제번호_이름.확장자`
 - 제출할 때 백준에서 정답 처리된 것만 제출
 
 #### 2. 개발자 전공지식
 - [**해당 깃허브**](https://github.com/gyoogle/tech-interview-for-developer) 에서 주제를 참고하여 정리해둔 목록 참고하여 작성
-- 해당 주제에 대해 각자 일주일동안 공부하며 정리하여 업로드 (매주 화, 목 21:00, 주 2회 / ZOOM 발표)
-- 제출 파일 형식 : `주제명.확장자`
+- 해당 주제에 대해 각자 공부하고 정리하여 업로드 (매주 화, 목 21:00, 주 2회 / ZOOM 발표)
+- 제출 파일 형식 : `주제명.md`
 
 <br>
 
@@ -51,37 +51,34 @@ for(int i __) {
 <br>
 
 ## Member
-<table align="center">
+<table>
 	<tr>
-		<td><img src="https://github.com/yuuulya.png" width="160"></td>
-		<td><img src="https://github.com/martin1341.png" width="160"></td>
-		<td><img src="https://github.com/jihye-12.png" width="160"></td>
-		<td><img src="https://github.com/minah13.png" width="160"></td>
-		<td><img src="https://github.com/bohongu.png" width="160"></td>
-		<td><img src="https://github.com/tkdalsgks.png" width="160"></td>
-	</tr>
-	<tr>
-		<td align="center"><br>
-		<a href="https://github.com/yuuulya"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>&nbsp;
-		<a href="https://bluepinetree.tistory.com"><img src="https://img.shields.io/badge/Blog-ED1C24?style=flat&logo=bitdefender&logoColor=white" /></a>
+		<td align="center"> <!-- 김율리아 -->
+		<img src="https://github.com/yuuulya.png" width="160"><br><br>
+		<a href="https://github.com/yuuulya"><img src="https://user-images.githubusercontent.com/66001046/188362062-a6dc643a-79bc-4976-b993-2dfd8c534bf9.svg" width="25" /></a>&nbsp;
+		<a href="https://bluepinetree.tistory.com"><img src="https://user-images.githubusercontent.com/66001046/188362305-f2a12268-6233-4fb8-8ffd-b92a96016f4a.svg" width="25" /></a>
 		</td>
-		<td  align="center"><br>
-		<a href="https://github.com/martin1341"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+		<td align="center"> <!-- 박병권 -->
+		<img src="https://github.com/martin1341.png" width="160"><br><br>
+		<a href="https://github.com/martin1341"><img src="https://user-images.githubusercontent.com/66001046/188362062-a6dc643a-79bc-4976-b993-2dfd8c534bf9.svg" width="25" /></a>
+		<td align="center"> <!-- 엄지혜 -->
+		<img src="https://github.com/jihye-12.png" width="160"><br><br>
+		<a href="https://github.com/jihye-12"><img src="https://user-images.githubusercontent.com/66001046/188362062-a6dc643a-79bc-4976-b993-2dfd8c534bf9.svg" width="25" /></a>&nbsp;
+		<a href="https://wisecodinglife.tistory.com"><img src="https://user-images.githubusercontent.com/66001046/188362305-f2a12268-6233-4fb8-8ffd-b92a96016f4a.svg" width="25" /></a>
 		</td>
-		<td align="center"><br>
-		<a href="https://github.com/jihye-12"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>&nbsp;
-		<a href="https://wisecodinglife.tistory.com"><img src="https://img.shields.io/badge/Blog-ED1C24?style=flat&logo=bitdefender&logoColor=white" /></a>
+		<td align="center"> <!-- 이민아 -->
+		<img src="https://github.com/minah13.png" width="160"><br><br>
+		<a href="https://github.com/minah13"><img src="https://user-images.githubusercontent.com/66001046/188362062-a6dc643a-79bc-4976-b993-2dfd8c534bf9.svg" width="25" /></a>
 		</td>
-		<td  align="center"><br>
-		<a href="https://github.com/minah13"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+		<td align="center"> <!-- 정재홍 -->
+		<img src="https://github.com/bohongu.png" width="160"><br><br>
+		<a href="https://github.com/bohongu"><img src="https://user-images.githubusercontent.com/66001046/188362062-a6dc643a-79bc-4976-b993-2dfd8c534bf9.svg" width="25" /></a>&nbsp;
+		<a href="https://bohongu.tistory.com"><img src="https://user-images.githubusercontent.com/66001046/188362305-f2a12268-6233-4fb8-8ffd-b92a96016f4a.svg" width="25" /></a>
 		</td>
-		<td align="center"><br>
-		<a href="https://github.com/bohongu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>&nbsp;
-		<a href="https://bohongu.tistory.com"><img src="https://img.shields.io/badge/Blog-ED1C24?style=flat&logo=bitdefender&logoColor=white" /></a>
-		</td>
-		<td align="center"><br>
-		<a href="https://github.com/tkdalsgks"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>&nbsp;
-		<a href="https://tkdalsgks.github.io"><img src="https://img.shields.io/badge/Blog-ED1C24?style=flat&logo=bitdefender&logoColor=white" /></a>
+		<td align="center"> <!-- 한상민 -->
+		<img src="https://github.com/tkdalsgks.png" width="160"><br><br>
+		<a href="https://github.com/tkdalsgks"><img src="https://user-images.githubusercontent.com/66001046/188362062-a6dc643a-79bc-4976-b993-2dfd8c534bf9.svg" width="25" /></a>&nbsp;
+		<a href="https://tkdalsgks.me"><img src="https://user-images.githubusercontent.com/66001046/188362305-f2a12268-6233-4fb8-8ffd-b92a96016f4a.svg" width="25" /></a>
 		</td>
 	</tr>
 </table>
