@@ -104,9 +104,6 @@
 - ### Software Engineering
 
   - 클린코드 & 리팩토링 & 시큐어코딩
-  - TDD(Test Driven Development)
   - 애자일(Agile)
   - 객체지향 & 절차지향 & 함수형 프로그래밍
   - 서드 파티(3rd party)란?
-  - 마이크로서비스 아키텍처(MSA)
-  
